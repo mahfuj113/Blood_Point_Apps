@@ -10,8 +10,6 @@ Included:
 - Finding blood group easily
 - Finding Near By Hospitals
 - Achievements & Rewards
-#Sustainable Development Goals
--Good Health and well-being
 # Tools used
 - Firebase Database
 - Firebase Authentication
